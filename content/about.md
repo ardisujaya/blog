@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Halo, saya Ardi. Blog ini tempat saya menulis catatan seputar teknologi, pekerjaan, dan hal-hal yang sedang saya pelajari.
+Hi, I'm Ardi. This blog is where I write notes on technology, work, and things I'm currently learning.

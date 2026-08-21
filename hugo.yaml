@@ -1,5 +1,5 @@
 baseURL: https://blog.ardisujaya.id/
-locale: id-ID
+locale: en-US
 title: Ardi Sujaya
 theme: PaperMod
 
@@ -43,8 +43,8 @@ params:
     enabled: false
 
   homeInfoParams:
-    Title: "Hai, saya Ardi 👋"
-    Content: "Catatan seputar teknologi, pekerjaan, dan hal-hal yang saya pelajari."
+    Title: "Hi, I'm Ardi 👋"
+    Content: "Notes on technology, work, and things I'm learning along the way."
 
   socialIcons:
     - name: github
