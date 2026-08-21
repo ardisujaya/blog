@@ -47,8 +47,8 @@ params:
     Content: "Notes on technology, work, and things I'm learning along the way."
 
   socialIcons:
-    - name: github
-      url: "https://github.com/ardisujaya"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ardisujaya/"
 
   assets:
     disableHLJS: false
